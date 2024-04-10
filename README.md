@@ -22,7 +22,9 @@ I'm a developer with extensive software development experience. I'm proficient i
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asapdev&layout=compact&range=all_time&theme=github_dark&custom_title=Activity&border_color=21262d&border_radius=12" style="float:left; margin-right: 10px;" />
 </picture>
 
-<hr>
+<br>
+
+<br>
 
 ## Socials
 
