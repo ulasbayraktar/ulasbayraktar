@@ -8,7 +8,7 @@ I'm a developer with extensive software development experience. I'm proficient i
 
 
 
-  <img align="left" src="https://skillicons.dev/icons?i=js,ts,git,django,sketchup,blender,py,postman,php,ps,mongodb,mysql,lua,md,html,css&perline=8" />
+  <img align="left" src="https://skillicons.dev/icons?i=js,ts,git,django,sketchup,blender,py,postman,php,ps,mongodb,mysql,lua,md,html,css&perline=6" />
 
 
 <div align="right">
