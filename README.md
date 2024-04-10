@@ -20,7 +20,7 @@ I'm a developer with extensive software development experience. I'm proficient i
   <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=gmail" height="50px" />
 </a>
 
-## Other
+## Stats
 
 <img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulasbayraktar&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=12" />
 
