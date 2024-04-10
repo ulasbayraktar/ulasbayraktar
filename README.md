@@ -4,8 +4,11 @@ I'm a developer with extensive software development experience. I'm proficient i
 
 ## Skills, Tools and Stats
 
+<i class="devicon-threedsmax-plain colored"></i>
 
-  <img align="left" src="https://skillicons.dev/icons?i=c,cs,lua,mysql,mongodb,css,html,js,jquery,py,ts,php,react,sketchup,blender,bootstrap,cloudflare,django,docker,git,github,laravel,linux,md,mongodb,netlify,nextjs,nodejs,npm,ps,postman,powershell,ubuntu,vscode,ae&perline=6" />
+
+
+  <img align="left" src="https://skillicons.dev/icons?i=js,ts,git,django,sketchup,blender,py,postman,php,ps,mongodb,mysql,lua,md,html,css&perline=8" />
 
 
 <div align="right">
@@ -13,7 +16,7 @@ I'm a developer with extensive software development experience. I'm proficient i
 </div>
 
 <div align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulasbayraktar&layout=compact&theme=github_dark&card_width=495&hide_rank=true&border_color=21262d&border_radius=12&langs_count=4&show_icons=true&size_weight=0.5&count_weight=0.5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulasbayraktar&layout=compact&theme=github_dark&card_width=1100&hide_rank=true&border_color=21262d&border_radius=12&langs_count=4&show_icons=true&size_weight=0.5&count_weight=0.5" />
 </div>
 
 
