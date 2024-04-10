@@ -6,9 +6,9 @@ I'm a developer with extensive software development experience. I'm proficient i
 
 ## Skills and Tools
 
-<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulasbayraktar&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=6" />
+<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulasbayraktar&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=12" />
 
-  <img alt="HTML" src="https://skillicons.dev/icons?i=c,cs,lua,mysql,mongodb,css,html,js,jquery,py,ts,php,react,sketchup,blender,bootstrap,cloudflare,django,docker,git,github,laravel,linux,md,mongodb,netlify,nextjs,nodejs,npm,ps,postman,powershell,ubuntu,vscode,ae&perline=12" />
+  <img alt="HTML" src="https://skillicons.dev/icons?i=c,cs,lua,mysql,mongodb,css,html,js,jquery,py,ts,php,react,sketchup,blender,bootstrap,cloudflare,django,docker,git,github,laravel,linux,md,mongodb,netlify,nextjs,nodejs,npm,ps,postman,powershell,ubuntu,vscode,ae&perline=6" />
 
 <picture>
   <source
