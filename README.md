@@ -8,6 +8,20 @@ I'm a developer with extensive software development experience. I'm proficient i
 
 <img alt="HTML" src="https://skillicons.dev/icons?i=c,cs,lua,mysql,mongodb,css,html,js,jquery,py,ts,php,react,sketchup,blender,bootstrap,cloudflare,django,docker,git,github,laravel,linux,md,mongodb,netlify,nextjs,nodejs,npm,ps,postman,powershell,ubuntu,vscode,ae&perline=15" />
 
+## Socials
+
+<a href="https://www.instagram.com/nbausy">
+  <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=instagram" height="50px" />
+</a>
+<a href="https://discord.com/users/769652614915686464">
+  <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=discord" height="50px" />
+</a>
+<a href="mailto:ulasbayraktar@proton.me">
+  <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=gmail" height="50px" />
+</a>
+
+## Other
+
 <img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulasbayraktar&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=12" />
 
 <picture>
@@ -21,19 +35,3 @@ I'm a developer with extensive software development experience. I'm proficient i
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asapdev&layout=compact&range=all_time&theme=github_dark&custom_title=Activity&border_color=21262d&border_radius=12" style="float:left; margin-right: 10px;" />
 </picture>
-
-<br>
-
-<br>
-
-## Socials
-
-<a href="https://www.instagram.com/nbausy">
-  <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=instagram" height="50px" />
-</a>
-<a href="https://discord.com/users/769652614915686464">
-  <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=discord" height="50px" />
-</a>
-<a href="mailto:ulasbayraktar@proton.me">
-  <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=gmail" height="50px" />
-</a>
