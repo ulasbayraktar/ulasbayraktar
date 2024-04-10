@@ -8,7 +8,7 @@ I'm a developer with extensive software development experience. I'm proficient i
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=e0e7240d-b068-43a1-8625-144ec3a961f3&layout=compact&range=all_time&display_format=percent&theme=github_dark&border_color=21262d&border_radius=12&langs_count=14" />
 
-<img src="https://skillicons.dev/icons?i=c,cs,lua,mysql,mongodb,css,html,js,jquery,py,ts,php,react,sketchup,blender,bootstrap,cloudflare,django,docker,git,github,laravel,linux,md,mongodb,netlify,nextjs,nodejs,npm,ps,postman,powershell,ubuntu,vscode,ae&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,cs,lua,mysql,mongodb,css,html,js,jquery,py,ts,php,react,sketchup,blender,bootstrap,cloudflare,django,docker,git,github,laravel,linux,md,mongodb,netlify,nextjs,nodejs,npm,ps,postman,powershell,ubuntu,vscode,ae&perline=6" />
 
 ## Socials
 
