@@ -4,7 +4,7 @@
 
 I'm a developer with extensive software development experience. I'm proficient in solution producing, programming, web applications, graphic design, video editing, 3D modelling, and database management.
 
-## Skills and Tools
+## Skills, Tools and Stats
 
 
   <img align="left" src="https://skillicons.dev/icons?i=c,cs,lua,mysql,mongodb,css,html,js,jquery,py,ts,php,react,sketchup,blender,bootstrap,cloudflare,django,docker,git,github,laravel,linux,md,mongodb,netlify,nextjs,nodejs,npm,ps,postman,powershell,ubuntu,vscode,ae&perline=6" />
