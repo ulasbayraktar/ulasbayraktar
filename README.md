@@ -1,3 +1,3 @@
 Hi, I'm Ulaş Bayraktar, also known as asapdeveloper.
 
-Programmer from Türkiye with experience in-game development and enterprise software.
+Software engineer with 4+ years of experience building multiplayer game infrastructure, backend services, developer tooling, and cross-platform applications. Active open source contributor to open.mp with experience across C++, Rust, TypeScript, Node.js, and React.
